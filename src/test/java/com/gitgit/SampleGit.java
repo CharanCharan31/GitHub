@@ -15,6 +15,7 @@ public class SampleGit {
 		System.out.println("2");
 
 	}
+
 	public void method3() {
 		System.out.println("3");
 
@@ -27,7 +28,13 @@ public class SampleGit {
 		System.out.println("5");
 
 	}
+	public void method6() {
+		System.out.println("6");
+		
+
+	}
 	
+
 	
 		
 	
