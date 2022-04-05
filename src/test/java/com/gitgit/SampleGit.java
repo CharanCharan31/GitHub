@@ -15,7 +15,11 @@ public class SampleGit {
 		System.out.println("2");
 
 	}
-	
+	public void method6() {
+		System.out.println("6");
+		
+
+	}
 	
 		
 	
